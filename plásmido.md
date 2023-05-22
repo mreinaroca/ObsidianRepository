@@ -1,5 +1,5 @@
 # Definición
-Molécula de ADN circular y/o linel extracromosomal con o sin regulación independiente del hospedero
+Molécula de ADN circular o lineal extracromosomal con o sin regulación independiente del hospedero
 
 # Características
 Puede tener una o varias copias, sitio de replicación propio

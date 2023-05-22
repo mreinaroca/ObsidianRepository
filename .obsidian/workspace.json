@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de62c8dbd3748573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nitrogenasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fijadores de nitrógeno.md",
+                "file": "nitrogenasa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fijadores de nitrógeno.md",
+                "file": "nitrogenasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fijadores de nitrógeno.md"
+                "file": "nitrogenasa.md"
               }
             }
           },
@@ -155,16 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3ff6d338b131f9f",
+  "active": "de62c8dbd3748573",
   "lastOpenFiles": [
+    "fijadores de nitrógeno.md",
+    "plásmido.md",
     "nitrogenasa.md",
     "enzima.md",
-    "fijadores de nitrógeno.md",
     "tra.md",
     "diazótrofos.md",
     "Untitled.md",
     "operón.md",
-    "plásmido.md",
     "Microbiology/desnitrificacion.md",
     "Microbiology/ciclo de nitrógeno.md",
     "Microbiology/nitrificación.md",
