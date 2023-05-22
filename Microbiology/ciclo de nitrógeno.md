@@ -1,4 +1,4 @@
-
+[[nitrógeno]]
 
 - [[mineralización]]
 - [[fijación de nitrógeno]]

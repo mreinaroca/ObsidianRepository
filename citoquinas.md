@@ -1,0 +1,1 @@
+[[proteína]] de bajo peso molecular que actúan como señalizadoras 

@@ -4,52 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "59bdd36a541beb8d",
+        "id": "95892ab14c4769d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd28c9ab126c678",
+            "id": "6a3d6f92647ce7b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiology/CEC.md",
+                "file": "Microbiology/ciclo biogeoquímico.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdd66ac901ca0e56",
+            "id": "9f4bf19a41d04943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pH.md",
+                "file": "Microbiology/ciclo de nitrógeno.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be9b1cd5912f2b2c",
+            "id": "0b990ec3b20cabc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biofertilizante.md",
+                "file": "nitrógeno.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a76b25624f5b914a",
+            "id": "04b24406882e8822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fijadores de nitrógeno.md",
+                "file": "citoquinas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,10 +85,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cec",
+                "query": "ciclo del",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fijadores de nitrógeno.md",
+                "file": "citoquinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fijadores de nitrógeno.md",
+                "file": "citoquinas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fijadores de nitrógeno.md"
+                "file": "citoquinas.md"
               }
             }
           },
@@ -191,21 +191,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76b25624f5b914a",
+  "active": "04b24406882e8822",
   "lastOpenFiles": [
-    "biofertilizante.md",
-    "solubilizadores de fósforo.md",
-    "fijadores de nitrógeno.md",
-    "pH.md",
-    "microorganismo.md",
+    "nitrógeno.md",
+    "citoquinas.md",
+    "Microbiology/ciclo de nitrógeno.md",
+    "Microbiology/ciclo biogeoquímico.md",
     "Microbiology/CEC.md",
+    "pH.md",
+    "biofertilizante.md",
+    "fijadores de nitrógeno.md",
+    "solubilizadores de fósforo.md",
+    "microorganismo.md",
     "hidronio.md",
     "Microbiology/calidad del suelo.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-05-21.md",
     "Microbiology/Haba.md",
-    "Microbiology/ciclo de nitrógeno.md",
     "Microbiology/planta.md",
     "Bioinformatics/bioinformatics.md",
     "Microbiology/Efectos de la red de micorrizas(1).md",
@@ -217,9 +220,6 @@
     "Microbiology/pteridofito.md",
     "Microbiology/Pseudotsuga menziesii.md",
     "Microbiology/ontogenético.md",
-    "Microbiology/MIR.md",
-    "Microbiology/Micorrizas orquidailes (OM).md",
-    "Microbiology/Micorrizas ericoidales (ErM).md",
     "Bioinformatics",
     "ObsidianRepo"
   ]
