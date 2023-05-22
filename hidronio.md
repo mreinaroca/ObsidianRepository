@@ -1,2 +1,2 @@
 $$\ce{H+}$$
-También llamado hidrón o 
+También llamado hidrón o hidrogenión

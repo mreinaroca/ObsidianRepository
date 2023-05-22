@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "691f500491ef1691",
+            "id": "fdd66ac901ca0e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidronio.md",
+                "file": "pH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be9b1cd5912f2b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "biofertilizante.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hidronio.md",
+                "file": "biofertilizante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hidronio.md",
+                "file": "biofertilizante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hidronio.md"
+                "file": "biofertilizante.md"
               }
             }
           },
@@ -167,8 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "691f500491ef1691",
+  "active": "be9b1cd5912f2b2c",
   "lastOpenFiles": [
+    "pH.md",
+    "biofertilizante.md",
+    "microorganismo.md",
     "Microbiology/CEC.md",
     "hidronio.md",
     "Microbiology/calidad del suelo.md",
@@ -193,9 +208,6 @@
     "Microbiology/Micorrizas ericoidales (ErM).md",
     "Microbiology/Micorrizas arbusculares (AM).md",
     "Microbiology/micoheterotrófico.md",
-    "Microbiology/IAA.md",
-    "Microbiology/heteroespecífico.md",
-    "Microbiology/Glomus.md",
     "Bioinformatics",
     "ObsidianRepo"
   ]
