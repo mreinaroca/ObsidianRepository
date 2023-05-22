@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nitrogenasa.md",
+                "file": "Microbiology/podzol.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nitrogenasa.md",
+                "file": "Microbiology/podzol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nitrogenasa.md",
+                "file": "Microbiology/podzol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nitrogenasa.md"
+                "file": "Microbiology/podzol.md"
               }
             }
           },
@@ -167,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc36aef484734bd5",
+  "active": "de62c8dbd3748573",
   "lastOpenFiles": [
+    "nitrogenasa.md",
     "fijadores de nitrógeno.md",
     "plásmido.md",
-    "nitrogenasa.md",
     "enzima.md",
     "tra.md",
     "diazótrofos.md",
