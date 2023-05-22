@@ -1,0 +1,1 @@
+[[enzima]] que se encarga de la [[fijación de nitrógeno]]
