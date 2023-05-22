@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95892ab14c4769d4",
+        "id": "fdcf7970775d5875",
         "type": "tabs",
         "children": [
           {
-            "id": "6a3d6f92647ce7b1",
+            "id": "d3ff6d338b131f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiology/nitrificación.md",
+                "file": "fijadores de nitrógeno.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7797f473c7ab772",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiology/nitrificación.md",
+                "file": "fijadores de nitrógeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiology/nitrificación.md",
+                "file": "fijadores de nitrógeno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiology/nitrificación.md"
+                "file": "fijadores de nitrógeno.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a3d6f92647ce7b1",
+  "active": "d3ff6d338b131f9f",
   "lastOpenFiles": [
-    "Microbiology/hao.md",
-    "Microbiology/nitrificación.md",
-    "Microbiology/fijación de nitrógeno.md",
+    "Untitled.md",
+    "operón.md",
+    "plásmido.md",
+    "Microbiology/desnitrificacion.md",
     "Microbiology/ciclo de nitrógeno.md",
+    "Microbiology/nitrificación.md",
+    "Microbiology/hao.md",
+    "Microbiology/fijación de nitrógeno.md",
     "Microbiology/ciclo biogeoquímico.md",
     "nitrógeno.md",
     "xilema.md",
@@ -172,7 +177,6 @@
     "microorganismo.md",
     "hidronio.md",
     "Microbiology/calidad del suelo.md",
-    "Untitled.md",
     "Untitled.canvas",
     "2023-05-21.md",
     "Microbiology/Haba.md",
@@ -180,9 +184,6 @@
     "Bioinformatics/bioinformatics.md",
     "Microbiology/Efectos de la red de micorrizas(1).md",
     "Microbiology/Micorrizas.md",
-    "Microbiology/VOCs.md",
-    "Microbiology/transferencia de C entre plantas.md",
-    "Microbiology/saprofito.md",
     "Bioinformatics",
     "ObsidianRepo"
   ]
