@@ -1,0 +1,1 @@
+Que se encuentra adherido a algo

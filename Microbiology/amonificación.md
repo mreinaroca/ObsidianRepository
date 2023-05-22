@@ -1,0 +1,1 @@
+Conversión de materia orgánica a [[amonio]]

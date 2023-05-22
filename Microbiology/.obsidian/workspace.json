@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "018ab6e146995f6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea05c01e712d06a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d2e77e6b28ed8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1b2f62edeaf2ee3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55f884b53692e564",
+    "type": "split",
+    "children": [
+      {
+        "id": "934e6f2444069417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b08580b220b973c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ec948ff3e016dcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hongos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e5da6376706ae26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e782d32aef2341a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "00369c5677eec7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8273f57fd650cc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aefc1d7ef6a5ab48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d85f4380d5018b2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2809568fac18cb88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1b2f62edeaf2ee3",
+  "lastOpenFiles": [
+    "podzol.md",
+    "hongos.md",
+    "suelo.md",
+    "horizonte C.md",
+    "horizonte B.md",
+    "calidad del suelo.md",
+    "CEA.md",
+    "CEC.md",
+    "cation.md",
+    "procariotas.md",
+    "crecimiento planctónico.md",
+    "crecimiento sessil.md",
+    "arcilla.md",
+    "ácido.md",
+    "ciclo biogeoquímico.md",
+    "suelo arenoso.md",
+    "horizonte A.md",
+    "horizonte O.md",
+    "Rizósfera.md",
+    "textura.md",
+    "MO.md",
+    "nitrificación.md",
+    "nir.md",
+    "hao.md",
+    "hidroxilamina.md",
+    "nitrosación.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Zona del suelo bajo la influencia de un sistema de raíces

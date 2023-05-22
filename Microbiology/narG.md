@@ -1,0 +1,1 @@
+Enzima [[nitrato]] [[reductasa]] 

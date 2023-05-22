@@ -1,0 +1,1 @@
+Pérdida de nutrientes solubles en agua en el suelo

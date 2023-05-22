@@ -1,0 +1,1 @@
+Paso de [[amonio]] a [[nitrógeno atmosférico]]
