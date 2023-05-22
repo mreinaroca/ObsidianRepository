@@ -1,6 +1,7 @@
 Aquellas bacterias que realizan [[fijación de nitrógeno]] son también llamados [[diazótrofos]]
 
 # Simbióticos
+
 ## Ejemplos: 
 - [[Rhizobium]]
 ## Características
@@ -14,3 +15,9 @@ Aquellas bacterias que realizan [[fijación de nitrógeno]] son también llamado
 # No simbióticos
 Ejemplos
 - [[Azotobacter]] y [[Azospirilum]]
+
+# Necesidades fisiológicas
+- Elementos traza [[Mg]], [[V]], [[Fe]], [[Mo]]
+- Suficiente cantidad de [[ATP]]
+- Temperatura
+- oxígeno ausente
