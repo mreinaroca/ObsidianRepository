@@ -1,10 +1,10 @@
 Aquellas bacterias que realizan [[fijación de nitrógeno]] son también llamados [[diazótrofos]]
 
-# Simbióticos
-
-## Ejemplos: 
+# Clasificación
+## Simbióticos
+### Ejemplos: 
 - [[Rhizobium]]
-## Características
+### Características
 - La información genética puede estar en cromosoma como en [[plásmido]]s
 - Los plásmidos presentan región [[tra]]
 - Poseen el [[operón]] completo de regulación
@@ -12,12 +12,7 @@ Aquellas bacterias que realizan [[fijación de nitrógeno]] son también llamado
 	- Trans. de cofactores
 	- Subunidades I y II de la [[nitrogenasa]]
 
-# No simbióticos
+## No simbióticos
 Ejemplos
 - [[Azotobacter]] y [[Azospirilum]]
 
-# Necesidades fisiológicas
-- Elementos traza [[Mg]], [[V]], [[Fe]], [[Mo]]
-- Suficiente cantidad de [[ATP]]
-- Temperatura
-- oxígeno ausente
