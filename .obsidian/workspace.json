@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de62c8dbd3748573",
+  "active": "bc36aef484734bd5",
   "lastOpenFiles": [
     "fijadores de nitrógeno.md",
     "plásmido.md",
