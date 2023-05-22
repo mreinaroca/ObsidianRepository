@@ -1,1 +1,1 @@
-[[proteína]] de bajo peso molecular que actúan como señalizadoras 
+[[proteína]] de bajo peso molecular que actúan como señalizadoras para la comunicación intercelular 

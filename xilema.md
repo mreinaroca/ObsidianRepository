@@ -1,0 +1,1 @@
+Transporta agua y sales minerales desde la raíz hasta las hojas

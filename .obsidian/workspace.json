@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiology/ciclo biogeoquímico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f4bf19a41d04943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiology/ciclo de nitrógeno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b990ec3b20cabc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nitrógeno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04b24406882e8822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "citoquinas.md",
+                "file": "Microbiology/nitrificación.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ciclo del",
+                "query": "hao",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "citoquinas.md",
+                "file": "Microbiology/nitrificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "citoquinas.md",
+                "file": "Microbiology/nitrificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "citoquinas.md"
+                "file": "Microbiology/nitrificación.md"
               }
             }
           },
@@ -191,12 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04b24406882e8822",
+  "active": "6a3d6f92647ce7b1",
   "lastOpenFiles": [
-    "nitrógeno.md",
-    "citoquinas.md",
+    "Microbiology/hao.md",
+    "Microbiology/nitrificación.md",
+    "Microbiology/fijación de nitrógeno.md",
     "Microbiology/ciclo de nitrógeno.md",
     "Microbiology/ciclo biogeoquímico.md",
+    "nitrógeno.md",
+    "xilema.md",
+    "citoquinas.md",
     "Microbiology/CEC.md",
     "pH.md",
     "biofertilizante.md",
@@ -216,10 +183,6 @@
     "Microbiology/VOCs.md",
     "Microbiology/transferencia de C entre plantas.md",
     "Microbiology/saprofito.md",
-    "Microbiology/Review-Tedersoo, Bahram _ Zobel.md",
-    "Microbiology/pteridofito.md",
-    "Microbiology/Pseudotsuga menziesii.md",
-    "Microbiology/ontogenético.md",
     "Bioinformatics",
     "ObsidianRepo"
   ]
