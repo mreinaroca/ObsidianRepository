@@ -11,8 +11,12 @@
             "id": "7fd28c9ab126c678",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Microbiology/CEC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vicia",
+                "query": "cec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microbiology/CEC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Microbiology/CEC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Microbiology/CEC.md"
+              }
             }
           },
           {
@@ -147,6 +156,8 @@
   },
   "active": "7fd28c9ab126c678",
   "lastOpenFiles": [
+    "Microbiology/calidad del suelo.md",
+    "Untitled.md",
     "Untitled.canvas",
     "2023-05-21.md",
     "Microbiology/Haba.md",
@@ -172,7 +183,6 @@
     "Microbiology/Glomus.md",
     "Microbiology/fitohormonas.md",
     "Microbiology/Efectos de la red de micorrizas.md",
-    "Microbiology/Ectomicorrizas (EcM).md",
     "Bioinformatics",
     "ObsidianRepo"
   ]
