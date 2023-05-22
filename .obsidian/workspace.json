@@ -28,12 +28,24 @@
             }
           },
           {
-            "id": "a2e6b38cee2e9c2f",
+            "id": "7108d9c587b1d3d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-OG.md",
+                "file": "NtrC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5773c1d71bb11973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NtrB.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-OG.md",
+                "file": "NtrC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-OG.md",
+                "file": "NtrC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-OG.md"
+                "file": "NtrC.md"
               }
             }
           },
@@ -175,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e6b38cee2e9c2f",
+  "active": "7108d9c587b1d3d3",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Pii regulating system.md",
     "2-OG.md",
+    "NtrB.md",
     "NtrC.md",
     "Microbiology/fijación de nitrógeno.md",
     "fijadores de nitrógeno.md",
@@ -201,8 +215,6 @@
     "Microbiology/CEC.md",
     "pH.md",
     "biofertilizante.md",
-    "solubilizadores de fósforo.md",
-    "microorganismo.md",
     "Untitled.canvas",
     "Bioinformatics",
     "ObsidianRepo"
