@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb4208a718b6929",
+        "id": "f0f99015809d6129",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ec60c61fd68d86",
+            "id": "f440e9924701353a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5ec60c61fd68d86",
+  "active": "f440e9924701353a",
   "lastOpenFiles": [
+    "Bioinformatics/bioinformatics.md",
+    "Bioinformatics",
     "ObsidianRepo",
     "Microbiology/horizonte C.md",
     "Microbiology/horizonte B.md",

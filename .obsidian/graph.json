@@ -5,8 +5,16 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Microbiology",
+      "color": {
+        "a": 1,
+        "rgb": 8179479
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -14,9 +22,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.112434895833333,
-  "repelStrength": 9.41666666666667,
+  "repelStrength": 6.71875,
   "linkStrength": 1,
   "linkDistance": 99,
   "scale": 0.15248460510500866,
-  "close": true
+  "close": false
 }
