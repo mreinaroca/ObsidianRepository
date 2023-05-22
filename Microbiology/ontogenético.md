@@ -1,0 +1,1 @@
+Hace referencia a la germinación y crecimiento de un organismo (estadío de vida)

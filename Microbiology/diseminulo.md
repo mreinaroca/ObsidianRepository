@@ -1,0 +1,1 @@
+Diséminulo o diaspore en inglés hace referencia a la semilla y tejidos adicionales que asisten en la dispersión y germinación.

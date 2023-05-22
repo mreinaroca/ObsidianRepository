@@ -1,0 +1,1 @@
+Significa que depende de hongos simbióticos para obtener su fuente de C

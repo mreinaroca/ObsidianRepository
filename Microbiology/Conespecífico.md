@@ -1,0 +1,1 @@
+Entre individuos de la misma especie 

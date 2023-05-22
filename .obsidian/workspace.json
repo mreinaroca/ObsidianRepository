@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f99015809d6129",
+        "id": "80baf1b66bb3a4dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f440e9924701353a",
+            "id": "02a666748d120493",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,35 +145,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f440e9924701353a",
+  "active": "02a666748d120493",
   "lastOpenFiles": [
+    "Microbiology/Haba.md",
+    "Microbiology/planta.md",
     "Bioinformatics/bioinformatics.md",
+    "Microbiology/Efectos de la red de micorrizas(1).md",
+    "Microbiology/Micorrizas.md",
+    "Microbiology/VOCs.md",
+    "Microbiology/transferencia de C entre plantas.md",
+    "Microbiology/saprofito.md",
+    "Microbiology/Review-Tedersoo, Bahram _ Zobel.md",
+    "Microbiology/pteridofito.md",
+    "Microbiology/Pseudotsuga menziesii.md",
+    "Microbiology/ontogenético.md",
+    "Microbiology/MIR.md",
+    "Microbiology/Micorrizas orquidailes (OM).md",
+    "Microbiology/Micorrizas ericoidales (ErM).md",
+    "Microbiology/Micorrizas arbusculares (AM).md",
+    "Microbiology/micoheterotrófico.md",
+    "Microbiology/IAA.md",
+    "Microbiology/heteroespecífico.md",
+    "Microbiology/Glomus.md",
+    "Microbiology/fitohormonas.md",
+    "Microbiology/Efectos de la red de micorrizas.md",
+    "Microbiology/Ectomicorrizas (EcM).md",
+    "Microbiology/diseminulo.md",
+    "Microbiology/Conespecífico.md",
+    "Microbiology/CMNs.md",
     "Bioinformatics",
-    "ObsidianRepo",
-    "Microbiology/horizonte C.md",
-    "Microbiology/horizonte B.md",
-    "Microbiology/podzol.md",
-    "Microbiology/cation.md",
-    "Microbiology/CEA.md",
-    "Microbiology/CEC.md",
-    "Microbiology/hongos.md",
-    "Microbiology/Untitled.md",
-    "Microbiology/crecimiento planctónico.md",
-    "Microbiology/crecimiento sessil.md",
-    "Microbiology/procariotas.md",
-    "Microbiology/arcilla.md",
-    "Microbiology/ácido.md",
-    "Microbiology/calidad del suelo.md",
-    "Microbiology/suelo arenoso.md",
-    "Microbiology/horizonte A.md",
-    "Microbiology/horizonte O.md",
-    "Microbiology/Rizósfera.md",
-    "Microbiology/textura.md",
-    "Microbiology/MO.md",
-    "Microbiology/suelo.md",
-    "Microbiology/nitrificación.md",
-    "Microbiology/hao.md",
-    "Microbiology/hidroxilamina.md",
-    "Microbiology/desnitrificacion.md"
+    "ObsidianRepo"
   ]
 }

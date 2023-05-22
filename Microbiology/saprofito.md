@@ -1,0 +1,1 @@
+Organismo que utiliza materia en descomposición para su nutrición 
