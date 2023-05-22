@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "691f500491ef1691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hidronio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiology/CEC.md",
+                "file": "hidronio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiology/CEC.md",
+                "file": "hidronio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiology/CEC.md"
+                "file": "hidronio.md"
               }
             }
           },
@@ -154,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fd28c9ab126c678",
+  "active": "691f500491ef1691",
   "lastOpenFiles": [
+    "Microbiology/CEC.md",
+    "hidronio.md",
     "Microbiology/calidad del suelo.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -181,8 +196,6 @@
     "Microbiology/IAA.md",
     "Microbiology/heteroespecífico.md",
     "Microbiology/Glomus.md",
-    "Microbiology/fitohormonas.md",
-    "Microbiology/Efectos de la red de micorrizas.md",
     "Bioinformatics",
     "ObsidianRepo"
   ]
