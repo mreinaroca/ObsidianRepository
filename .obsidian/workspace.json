@@ -16,19 +16,31 @@
             }
           },
           {
-            "id": "f2af848ebb7182ed",
+            "id": "9e2d8e539e2bdcda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NtrC.md",
+                "file": "Pii regulating system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e6b38cee2e9c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-OG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NtrC.md",
+                "file": "2-OG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NtrC.md",
+                "file": "2-OG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NtrC.md"
+                "file": "2-OG.md"
               }
             }
           },
@@ -163,8 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2af848ebb7182ed",
+  "active": "a2e6b38cee2e9c2f",
   "lastOpenFiles": [
+    "Pii regulating system.md",
+    "2-OG.md",
     "NtrC.md",
     "Microbiology/fijación de nitrógeno.md",
     "fijadores de nitrógeno.md",
@@ -189,8 +203,6 @@
     "biofertilizante.md",
     "solubilizadores de fósforo.md",
     "microorganismo.md",
-    "hidronio.md",
-    "Microbiology/calidad del suelo.md",
     "Untitled.canvas",
     "Bioinformatics",
     "ObsidianRepo"
