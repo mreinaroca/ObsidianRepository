@@ -1,1 +1,0 @@
-Es el regulador molecular para la [[fijación de nitrógeno]]

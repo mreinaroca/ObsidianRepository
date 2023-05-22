@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NtrcN.md",
+                "file": "NtrC.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NtrcN.md",
+                "file": "NtrC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NtrcN.md",
+                "file": "NtrC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NtrcN.md"
+                "file": "NtrC.md"
               }
             }
           },
@@ -165,7 +165,7 @@
   },
   "active": "f2af848ebb7182ed",
   "lastOpenFiles": [
-    "NtrcN.md",
+    "NtrC.md",
     "Microbiology/fijación de nitrógeno.md",
     "fijadores de nitrógeno.md",
     "Microbiology/podzol.md",
