@@ -16,43 +16,19 @@
             }
           },
           {
-            "id": "9e2d8e539e2bdcda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pii regulating system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7108d9c587b1d3d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NtrC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5773c1d71bb11973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NtrB.md",
+                "file": "nitrogenasa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NtrC.md",
+                "file": "nitrogenasa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NtrC.md",
+                "file": "nitrogenasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NtrC.md"
+                "file": "nitrogenasa.md"
               }
             }
           },
@@ -187,13 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7108d9c587b1d3d3",
+  "active": "5773c1d71bb11973",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Pii regulating system.md",
-    "2-OG.md",
     "NtrB.md",
+    "Pii regulating system.md",
     "NtrC.md",
+    "Untitled 1.md",
+    "2-OG.md",
     "Microbiology/fijación de nitrógeno.md",
     "fijadores de nitrógeno.md",
     "Microbiology/podzol.md",
