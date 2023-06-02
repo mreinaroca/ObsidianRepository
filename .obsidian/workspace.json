@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02aae7c4227c9921",
+        "id": "181fbb4494f92556",
         "type": "tabs",
         "children": [
           {
-            "id": "b07f7aa7698f8cb2",
+            "id": "c05314e09e08d60d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformatics/bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 411.5
   },
   "right": {
     "id": "d7797f473c7ab772",
