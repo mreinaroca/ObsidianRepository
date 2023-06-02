@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "01bbe90592b52e39",
+        "id": "02aae7c4227c9921",
         "type": "tabs",
         "children": [
           {
-            "id": "f43891f7efb596a7",
+            "id": "b07f7aa7698f8cb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "abdcd25dff74f766",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Bioinformatics/bioinformatics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bioinformatics/bioinformatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bioinformatics/bioinformatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bioinformatics/bioinformatics.md"
+              }
             }
           },
           {
@@ -156,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abdcd25dff74f766",
+  "active": "47a06f5a2b732155",
   "lastOpenFiles": [
     "Microbiology/suelo.md",
     "Microbiology/2-OG.md",
