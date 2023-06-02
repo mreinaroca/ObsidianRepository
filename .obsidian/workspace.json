@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "abdcd25dff74f766",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f43891f7efb596a7",
+  "active": "abdcd25dff74f766",
   "lastOpenFiles": [
     "Microbiology/suelo.md",
     "Microbiology/2-OG.md",
