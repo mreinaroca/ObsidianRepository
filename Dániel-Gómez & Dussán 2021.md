@@ -1,5 +1,5 @@
 
-Tema: Control biológico de [[Lysinibacillus sphaericus]] contra [[Aedes albopictus]] y [[Aedes aedypti]]
+Tema: [[Control biológico]] de [[Lysinibacillus sphaericus]] contra [[Aedes albopictus]] y [[Aedes aedypti]]
 Aplicación: Método de coloración para diferenciación de [[Aedes albopictus]] y [[Aedes aedypti]]
 
 
