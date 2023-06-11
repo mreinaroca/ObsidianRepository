@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "181fbb4494f92556",
+        "id": "420e09d40412b881",
         "type": "tabs",
         "children": [
           {
-            "id": "c05314e09e08d60d",
+            "id": "6af2ccf3e3a4100c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics/bioinformatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics/bioinformatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioinformatics/bioinformatics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,13 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a06f5a2b732155",
+  "active": "6af2ccf3e3a4100c",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
     "Microbiology/suelo.md",
     "Microbiology/2-OG.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Microbiology/desnitrificacion.md",
     "Microbiology/Azotobacter.md",
     "Microbiology/fijadores de nitrógeno.md",
