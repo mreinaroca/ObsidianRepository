@@ -11,3 +11,5 @@
 	- [[sphaericolysin]]
 	- mtx1, mtx2, mtx3
 	- Capa S
+	- Hemolisinas
+	- Quitinasas
