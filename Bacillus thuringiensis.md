@@ -1,0 +1,4 @@
+
+# Características
+- [[cristal paraesporal]]
+- [[bioinsecticida]]
