@@ -6,4 +6,4 @@
 4. Posee [[cristal paraesporal]]
 
 # Genes
-- [[Control biológico]]: binA,  binB
+- [[Control biológico]]: binA,  binB. Estas se encuentran en el [[cristal paraesporal]]
