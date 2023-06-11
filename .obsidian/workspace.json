@@ -11,18 +11,6 @@
             "id": "6af2ccf3e3a4100c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dániel-Gómez & Dussán 2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cb2de8bbc0d64a4",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -51,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cb2de8bbc0d64a4",
+  "active": "6af2ccf3e3a4100c",
   "lastOpenFiles": [
+    "Dániel-Gómez & Dussán 2021.md",
     "Lysinibacillus sphaericus.md",
     "Bacillus thuringiensis.md",
     "cristal paraesporal.md",
-    "Dániel-Gómez & Dussán 2021.md",
     "Control biológico.md",
     "biomarcadores.md",
     "Aedes albopictus.md",
