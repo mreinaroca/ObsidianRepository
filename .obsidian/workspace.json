@@ -11,8 +11,12 @@
             "id": "6af2ccf3e3a4100c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A Novel Bacterial-Mediated Method for the Differentiation of Aedes spp. Larvae in Mixed-Nursery Assays and Its Application in the Determination of Vegetative Lysinibacillus sphaericus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7797f473c7ab772",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Novel Bacterial-Mediated Method for the Differentiation of Aedes spp. Larvae in Mixed-Nursery Assays and Its Application in the Determination of Vegetative Lysinibacillus sphaericus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Novel Bacterial-Mediated Method for the Differentiation of Aedes spp. Larvae in Mixed-Nursery Assays and Its Application in the Determination of Vegetative Lysinibacillus sphaericus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A Novel Bacterial-Mediated Method for the Differentiation of Aedes spp. Larvae in Mixed-Nursery Assays and Its Application in the Determination of Vegetative Lysinibacillus sphaericus.md"
+              }
             }
           },
           {
@@ -147,8 +156,8 @@
   },
   "active": "6af2ccf3e3a4100c",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
+    "A Novel Bacterial-Mediated Method for the Differentiation of Aedes spp. Larvae in Mixed-Nursery Assays and Its Application in the Determination of Vegetative Lysinibacillus sphaericus.md",
     "Microbiology/suelo.md",
     "Microbiology/2-OG.md",
     "Untitled 1.md",
