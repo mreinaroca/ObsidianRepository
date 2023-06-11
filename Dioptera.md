@@ -1,0 +1,1 @@
+Orden en el que los insectos tienen desarrollo holometabólico [[holometabolismo]]

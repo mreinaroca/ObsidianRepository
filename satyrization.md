@@ -1,0 +1,1 @@
+Cruce entre especies cuya descendencia tiene un menor fitness
