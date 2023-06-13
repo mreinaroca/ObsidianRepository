@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "420e09d40412b881",
+        "id": "ce98c3860b211f37",
         "type": "tabs",
         "children": [
           {
-            "id": "6af2ccf3e3a4100c",
+            "id": "398f3a9552f6a8af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lysinibacillus sphaericus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8150243dd33c73f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bacillus thuringiensis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9919fa886c288da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cristal paraesporal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lysinibacillus sphaericus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lysinibacillus sphaericus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lysinibacillus sphaericus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,12 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6af2ccf3e3a4100c",
+  "active": "47a06f5a2b732155",
   "lastOpenFiles": [
-    "Dániel-Gómez & Dussán 2021.md",
-    "Lysinibacillus sphaericus.md",
-    "Bacillus thuringiensis.md",
     "cristal paraesporal.md",
+    "Bacillus thuringiensis.md",
+    "Lysinibacillus sphaericus.md",
+    "Dániel-Gómez & Dussán 2021.md",
     "Control biológico.md",
     "biomarcadores.md",
     "Aedes albopictus.md",
